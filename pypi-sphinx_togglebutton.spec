@@ -4,7 +4,7 @@
 #
 Name     : pypi-sphinx_togglebutton
 Version  : 0.3.2
-Release  : 12
+Release  : 13
 URL      : https://files.pythonhosted.org/packages/f0/df/d151dfbbe588116e450ca7e898750cb218dca6b2e557ced8de6f9bd7242b/sphinx-togglebutton-0.3.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/f0/df/d151dfbbe588116e450ca7e898750cb218dca6b2e557ced8de6f9bd7242b/sphinx-togglebutton-0.3.2.tar.gz
 Summary  : Toggle page content and collapse admonitions in Sphinx.
